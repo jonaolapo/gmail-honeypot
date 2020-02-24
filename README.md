@@ -58,4 +58,4 @@ They contain code required by scripts in the **general** directory.
 
 * **unicodeheaven** - To handle unicode data.
 
-NOTE: This repository is a clone of [https://bitbucket.org/gianluca_students/gmail-honeypot].
+NOTE: This repository is a clone of https://bitbucket.org/gianluca_students/gmail-honeypot .
